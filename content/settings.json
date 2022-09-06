@@ -1,25 +1,25 @@
 {
-  "store_id": 4309,
-  "name": "naybrand",
   "domain": "naybrand.netlify.app",
-  "short_name": "naybrand",
-  "description": "naybrand",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-white"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/logo-vertical-verde.png",
+  "name": "naybrand",
+  "short_name": "naybrand",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/sub-logo-verde-2.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/logo-vertical-verde.png",
+  "store_id": 4309,
+  "description": "naybrand",
+  "large_icon": "/img/uploads/sub-logo-verde-2.png"
 }
