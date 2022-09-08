@@ -22,10 +22,6 @@
       "enabled": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "624d911b2e405e04ff27204b:categories:vestidos :/vestidos",
@@ -34,6 +30,10 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
     },
     {
       "type": "page-title",
