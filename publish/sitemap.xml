@@ -1154,6 +1154,12 @@
     </url>
   
     <url>
+      <loc>https://naybrand.netlify.app/nay-brand</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://naybrand.netlify.app/cropeds</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1221,12 +1227,6 @@
   
     <url>
       <loc>https://naybrand.netlify.app/ate-30percent-off</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/nay-brand</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
