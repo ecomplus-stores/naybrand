@@ -2,6 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://naybrand.netlify.app/cropeds</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/shorts</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/pareo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/jeans</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/conjuntos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/kimonos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/calcas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/saias</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/macacao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/panneau</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/vestidos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/ate-30percent-off</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://naybrand.netlify.app/short-mel-azul-bic</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -38,12 +110,6 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/vestido-lenco-vibrando-paz-e-amor-claro</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/croped-clarissa-flare-vibrando-paz-e-amor-preto</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -75,12 +141,6 @@
   
     <url>
       <loc>https://naybrand.netlify.app/vestido-savana-lilas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/vestido-savana-degrade</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -128,30 +188,6 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/short-com-decote-nas-laterais</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/short-com-recortes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/vestido-dani-fuccia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/vestido-dani-lemon</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/vestido-serena-laranja</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -164,30 +200,6 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/top-bali-lemon</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/top-bali-fuccia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/top-bibi-lemon</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/top-bibi-fuccia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/kimono--faixa</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -195,18 +207,6 @@
   
     <url>
       <loc>https://naybrand.netlify.app/kimono--faixa-fuccia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/vestido-moana-fuccia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/vestido-moana-lemon</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -272,18 +272,6 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/panneau-brisa-leve</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/panneau-verao-o-ano-todo</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/vestido-midi-atenhas-santorini</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -296,37 +284,7 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/vestido-serena-santorini</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/macaquinho-floripa-santorini</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/saia-maria-santorini</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/saia-vazada-que-vira-vestido-santorini</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/top-bali-santorini</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/kimono--top--faixa-santorini</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -495,42 +453,6 @@
   
     <url>
       <loc>https://naybrand.netlify.app/top-bali-degrade</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/calca-pantalona-degrade</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/vestido-serena-degrade-oceano</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/vestido-maya-degrade</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/vestido-jasmim-degrade-oceano</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/vestido-frente-unica-degrade-oceano</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/vestido-iris</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1187,78 +1109,6 @@
       <loc>https://naybrand.netlify.app/vestido-iris-branco</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/cropeds</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/shorts</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/pareo</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/jeans</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/conjuntos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/kimonos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/calcas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/saias</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/macacao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/panneau</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/vestidos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/ate-30percent-off</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
