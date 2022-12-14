@@ -1040,6 +1040,12 @@
     </url>
   
     <url>
+      <loc>https://naybrand.netlify.app/iris-com-brilho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://naybrand.netlify.app/cropeds</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
