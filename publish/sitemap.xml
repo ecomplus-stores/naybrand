@@ -1064,6 +1064,12 @@
     </url>
   
     <url>
+      <loc>https://naybrand.netlify.app/saia-transpasse-feita-de-sol</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://naybrand.netlify.app/cropeds</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1142,6 +1148,12 @@
     </url>
   
     <url>
+      <loc>https://naybrand.netlify.app/pages/contato</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://naybrand.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1154,25 +1166,19 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/pages/contato</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/pages/sobre-nos</loc>
+      <loc>https://naybrand.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/pages/privacidade</loc>
+      <loc>https://naybrand.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
