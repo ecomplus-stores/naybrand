@@ -24,14 +24,15 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
+      "page": 1,
+      "title": "Ela é feita de sol,de mar,de areia e de verão! ",
       "shuffle": true,
-      "collection_id": "6410023d4bd2e929c19b3b56:collections:Feita de sol:/feita-de-sol",
-      "sort": "news",
-      "title": "o MOOD aqui é ALEGRIA e ALTO ASTRAL! Vemmm! 🐆🌈",
       "headless": false,
+      "type": "collection-shelf",
+      "link": "feita-de-sol",
       "limit": 12,
-      "page": 1
+      "collection_id": "6410023d4bd2e929c19b3b56:collections:Feita de sol:/feita-de-sol",
+      "sort": "news"
     },
     {
       "type": "dynamic-showcase",
