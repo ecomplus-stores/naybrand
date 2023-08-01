@@ -10,6 +10,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/img_1462.jpeg"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/verao-post-para-instagram-quadrado-banner-para-blog-.png",
           "link": "https://naybrand.netlify.app/lisostododia"
         },
@@ -30,11 +35,6 @@
           "end": "",
           "img": "/img/uploads/75c76c0e-fde1-4bca-a67d-b72b115f8889.png",
           "link": "https://naybrand.netlify.app/feita-de-sol"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/img_1462.jpeg"
         }
       ]
     },
