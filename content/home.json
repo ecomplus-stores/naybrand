@@ -10,6 +10,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/design-sem-nome.png"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/design-sem-nome-1.png",
           "link": "respira-e-voa"
         },
@@ -24,18 +29,6 @@
           "end": "",
           "img": "/img/uploads/verao-post-para-instagram-quadrado-banner-para-blog-.png",
           "link": "https://naybrand.netlify.app/lisostododia"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/1.png",
-          "link": "https://naybrand.netlify.app/lisostododia"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/75c76c0e-fde1-4bca-a67d-b72b115f8889.png",
-          "link": "https://naybrand.netlify.app/feita-de-sol"
         }
       ]
     },
