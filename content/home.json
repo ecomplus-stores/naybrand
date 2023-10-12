@@ -11,6 +11,12 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/design-sem-nome.png",
+          "link": "https://naybrand.netlify.app/lisostododia"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/design-sem-nome.png",
           "link": "https://naybrand.netlify.app/capri"
         },
         {
@@ -24,12 +30,6 @@
           "end": "",
           "img": "/img/uploads/img_1462.jpeg",
           "link": "https://naybrand.netlify.app/alfaiataria"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/design-sem-nome.png",
-          "link": "https://naybrand.netlify.app/lisostododia"
         }
       ]
     },
