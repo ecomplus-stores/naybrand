@@ -10,6 +10,18 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/cla-ssicos-de-natal.png",
+          "link": " doce-flor-"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/26803929-9db4-4bc9-a7e1-ed0a4c9f4e37.png",
+          "link": " natal--drop-1"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/design-sem-nome.png",
           "link": "https://naybrand.netlify.app/lisostododia"
         },
@@ -30,18 +42,6 @@
           "end": "",
           "img": "/img/uploads/img_1462.jpeg",
           "link": "https://naybrand.netlify.app/alfaiataria"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/26803929-9db4-4bc9-a7e1-ed0a4c9f4e37.png",
-          "link": " natal--drop-1"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/cla-ssicos-de-natal.png",
-          "link": " doce-flor-"
         }
       ]
     },
