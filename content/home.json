@@ -10,6 +10,12 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/4fe63c34-cd0c-446f-afbe-ebe656aa7685.png",
+          "link": " amuleto-da-sorte"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/cla-ssicos-de-natal.png",
           "link": " doce-flor-"
         },
@@ -48,12 +54,6 @@
           "end": "",
           "img": "/img/uploads/img_1462.jpeg",
           "link": "https://naybrand.netlify.app/alfaiataria"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/4fe63c34-cd0c-446f-afbe-ebe656aa7685.png",
-          "link": " amuleto-da-sorte"
         }
       ]
     },
