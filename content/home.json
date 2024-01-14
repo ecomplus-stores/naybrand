@@ -10,6 +10,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/a6308bf3-8f62-4a36-b875-ee93dd458d64.png"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/4fe63c34-cd0c-446f-afbe-ebe656aa7685.png",
           "link": " amuleto-da-sorte"
         },
@@ -54,11 +59,6 @@
           "end": "",
           "img": "/img/uploads/img_1462.jpeg",
           "link": "https://naybrand.netlify.app/alfaiataria"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/a6308bf3-8f62-4a36-b875-ee93dd458d64.png"
         }
       ]
     },
