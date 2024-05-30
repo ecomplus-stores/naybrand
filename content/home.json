@@ -22,6 +22,12 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/374af7b1-ae02-4bc0-bb77-eb998f67f738.jpeg",
+          "link": "lisostododia"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/a6308bf3-8f62-4a36-b875-ee93dd458d64.png",
           "link": " verao-nay-brand"
         },
@@ -42,12 +48,6 @@
           "end": "",
           "img": "/img/uploads/img_1462.jpeg",
           "link": "https://naybrand.netlify.app/alfaiataria"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/374af7b1-ae02-4bc0-bb77-eb998f67f738.jpeg",
-          "link": "lisostododia"
         }
       ]
     },
