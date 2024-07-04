@@ -51,13 +51,13 @@
     },
     {
       "page": 1,
-      "title": "Confira nossa linha premium,com estampas exclusivas! 🍃",
+      "title": "Peças coringas para você usar todos os dias em todas as ocasiões ✨",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "listras-premium",
+      "link": "lisostododia",
       "limit": 12,
-      "collection_id": "64c18b735e6069037074b8cd:categories:Linha premium:/linha-premium",
+      "collection_id": "64a77cd65e60690370582dc4:categories:Lisostododia:/lisostododia",
       "sort": "news"
     },
     {
