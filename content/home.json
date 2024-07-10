@@ -10,6 +10,12 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/degrade-amar.jpeg",
+          "link": "degrade-amar"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/374af7b1-ae02-4bc0-bb77-eb998f67f738.jpeg",
           "link": "lisostododia"
         },
@@ -42,12 +48,6 @@
           "end": "",
           "img": "/img/uploads/img_1462.jpeg",
           "link": "https://naybrand.netlify.app/alfaiataria"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/degrade-amar.jpeg",
-          "link": "degrade-amar"
         }
       ]
     },
