@@ -73,9 +73,9 @@
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "verao-vintage",
+      "link": "romance-",
       "limit": 12,
-      "collection_id": "66a11299f4e6d85ab2dd51fd:categories:Verão vintage:/verao-vintage",
+      "collection_id": null,
       "sort": "news"
     },
     {
