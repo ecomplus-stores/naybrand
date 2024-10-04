@@ -10,6 +10,12 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/canelado-.jpg",
+          "link": "canelados-premium"
+        },
+        {
+          "start": "",
+          "end": "",
           "mobile_img": "",
           "img": "/img/uploads/design-sem-nome.jpg",
           "link": "romance-"
@@ -55,12 +61,6 @@
           "end": "",
           "img": "/img/uploads/img_1462.jpeg",
           "link": "https://naybrand.netlify.app/alfaiataria"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/canelado-.jpg",
-          "link": "canelados-premium"
         }
       ]
     },
