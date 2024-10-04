@@ -41,12 +41,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/design-sem-nome.jpeg",
-          "link": "luna-"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/ecdf61b2-e628-4601-ac84-024a306010c4.jpeg",
           "link": "listras-premium"
         },
@@ -61,6 +55,11 @@
           "end": "",
           "img": "/img/uploads/img_1462.jpeg",
           "link": "https://naybrand.netlify.app/alfaiataria"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/design-sem-nome.jpg"
         }
       ]
     },
