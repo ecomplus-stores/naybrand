@@ -1436,13 +1436,25 @@
     </url>
   
     <url>
+      <loc>https://naybrand.netlify.app/pages/entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://naybrand.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/pages/entrega</loc>
+      <loc>https://naybrand.netlify.app/pages/faq</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1466,31 +1478,19 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/pages/faq</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/posts/conheca-nossas-redes-sociais</loc>
+      <loc>https://naybrand.netlify.app/posts/esta-loja-e-um-pwa</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/posts/esta-loja-e-um-pwa</loc>
+      <loc>https://naybrand.netlify.app/posts/conheca-nossas-redes-sociais</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
