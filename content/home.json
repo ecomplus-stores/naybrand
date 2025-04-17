@@ -10,6 +10,12 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/design-sem-nome.jpg",
+          "link": "colecao-serena"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/cafe-.jpeg",
           "link": " drop-cafe"
         },
@@ -42,12 +48,6 @@
           "end": "",
           "img": "/img/uploads/design-sem-nome.zip-1.jpeg",
           "link": "amazonia"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/design-sem-nome.jpg",
-          "link": "colecao-serena"
         }
       ]
     },
