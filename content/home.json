@@ -22,21 +22,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/design-sem-nome.zip-1.jpeg",
-          "link": "amazonia"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/canelado-.jpg",
           "link": "canelados-premium"
-        },
-        {
-          "start": "",
-          "end": "",
-          "mobile_img": "",
-          "img": "/img/uploads/design-sem-nome.jpg",
-          "link": "romance-"
         },
         {
           "start": "",
@@ -53,20 +40,14 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/8c2385f0-0464-4831-9945-648f3c8fc713.jpeg",
-          "link": "sertao-"
+          "img": "/img/uploads/design-sem-nome.zip-1.jpeg",
+          "link": "amazonia"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/img_1462.jpeg",
-          "link": "https://naybrand.netlify.app/alfaiataria"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/design-sem-nome.png",
-          "link": "https://naybrand.netlify.app/lisostododia"
+          "img": "/img/uploads/design-sem-nome.jpg",
+          "link": "colecao-serena"
         }
       ]
     },
