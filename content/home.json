@@ -61,7 +61,7 @@
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "colecao-serena",
+      "link": "serena",
       "limit": 12,
       "collection_id": "6801554cef51eb1c90d50f2b:collections:Serena:/serena",
       "sort": "news"
