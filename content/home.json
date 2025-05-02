@@ -16,6 +16,12 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/design-sem-nome.zip-1.jpeg",
+          "link": "amazonia"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/cafe-.jpeg",
           "link": " drop-cafe"
         },
@@ -42,12 +48,6 @@
           "end": "",
           "img": "/img/uploads/374af7b1-ae02-4bc0-bb77-eb998f67f738.jpeg",
           "link": "lisostododia"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/design-sem-nome.zip-1.jpeg",
-          "link": "amazonia"
         }
       ]
     },
