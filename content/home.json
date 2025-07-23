@@ -16,12 +16,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/8c2385f0-0464-4831-9945-648f3c8fc713.jpeg",
-          "link": "sertao-"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/design-sem-nome.zip-1.jpeg",
           "link": "amazonia"
         },
@@ -34,8 +28,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/degrade-amar.jpeg",
-          "link": "degrade-amar"
+          "img": "/img/uploads/374af7b1-ae02-4bc0-bb77-eb998f67f738.jpeg",
+          "link": "lisostododia"
         },
         {
           "start": "",
@@ -58,8 +52,14 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/374af7b1-ae02-4bc0-bb77-eb998f67f738.jpeg",
-          "link": "lisostododia"
+          "img": "/img/uploads/degrade-amar.jpeg",
+          "link": "degrade-amar"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/8c2385f0-0464-4831-9945-648f3c8fc713.jpeg",
+          "link": "sertao-"
         }
       ]
     },
