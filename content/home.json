@@ -10,6 +10,12 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/bunners.jpg",
+          "link": "lisostododia"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/bandana.jpg",
           "link": "bandana"
         },
@@ -30,12 +36,6 @@
           "end": "",
           "img": "/img/uploads/design-sem-nome.jpg",
           "link": "serena"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/bunners.jpg",
-          "link": "lisostododia"
         },
         {
           "start": "",
