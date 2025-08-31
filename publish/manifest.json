@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.6757566fd86d745549eaccac78fcc922.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.05180e2d637b66ff158ee6417710e175.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.0aa51c3eb4c4fc2630ed8aa39fd6db19.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.b8c7d0ddfdc24ba3f117a3355782f8d5.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.241178a5f9ddb2ffdb07a9c6d7681c10.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "naybrand",
+  "short_name": "naybrand",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "naybrand",
+  "background_color": "#ffffff",
+  "theme_color": "#96b996"
+}
