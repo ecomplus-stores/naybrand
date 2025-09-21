@@ -1202,6 +1202,72 @@
     </url>
   
     <url>
+      <loc>https://naybrand.netlify.app/feita-de-sol</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/oncinha-de-verao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/jangadas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/caju-tropical</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/degrade-dunas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/jardim-mistico</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/doce-flor</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/desejo-e-paixao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/serena</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/degrade-sentir</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/bandana</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://naybrand.netlify.app/cropeds</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1280,12 +1346,6 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/jardim-mistico</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/linha-premium</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1293,18 +1353,6 @@
   
     <url>
       <loc>https://naybrand.netlify.app/estampas-exclusivas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/oncinha-de-verao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/jangadas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -1400,54 +1448,6 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/degrade-sentir</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/bandana</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/feita-de-sol</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/caju-tropical</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/degrade-dunas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/doce-flor</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/desejo-e-paixao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/serena</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/nay-brand</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1538,12 +1538,6 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -1553,6 +1547,12 @@
       <loc>https://naybrand.netlify.app/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
