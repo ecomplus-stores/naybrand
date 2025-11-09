@@ -10,6 +10,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/black-nayday.jpeg"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/vibe-leve-alma-tropical.png",
           "link": "lisostododia"
         },
@@ -72,11 +77,6 @@
           "end": "",
           "img": "/img/uploads/8c2385f0-0464-4831-9945-648f3c8fc713.jpeg",
           "link": "sertao-"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/black-nayday.jpeg"
         }
       ]
     },
