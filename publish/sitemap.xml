@@ -1376,12 +1376,6 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/nay-brand</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/feita-de-sol</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1418,6 +1412,12 @@
     </url>
   
     <url>
+      <loc>https://naybrand.netlify.app/nay-brand</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://naybrand.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1430,6 +1430,12 @@
     </url>
   
     <url>
+      <loc>https://naybrand.netlify.app/pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://naybrand.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1437,12 +1443,6 @@
   
     <url>
       <loc>https://naybrand.netlify.app/pages/privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
