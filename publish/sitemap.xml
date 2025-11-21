@@ -1358,12 +1358,6 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/nay-brand</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/feita-de-sol</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1401,6 +1395,12 @@
   
     <url>
       <loc>https://naybrand.netlify.app/natal-tropical--bandana-bordo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/nay-brand</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
