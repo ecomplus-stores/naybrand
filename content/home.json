@@ -87,8 +87,8 @@
       "type": "collection-shelf",
       "link": "pareo",
       "limit": 12,
-      "collection_id": "615dfcb628ace502ae97cbca:categories:Cangas:/pareo",
-      "sort": "news"
+      "collection_id": "62539d642e405e04ff36aad6:categories:Promoções:/ate-30percent-off",
+      "sort": "lowest_price"
     },
     {
       "type": "dynamic-showcase",
