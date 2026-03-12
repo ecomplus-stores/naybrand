@@ -88,7 +88,7 @@
       "link": "ate-30percent-off",
       "limit": 12,
       "collection_id": "62539d642e405e04ff36aad6:categories:Promoções:/ate-30percent-off",
-      "sort": "offers"
+      "sort": "lowest_price"
     },
     {
       "type": "dynamic-showcase",
