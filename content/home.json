@@ -85,10 +85,10 @@
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "ate-30percent-off",
+      "link": "listras-premium",
       "limit": 12,
-      "collection_id": "62539d642e405e04ff36aad6:categories:Promoções:/ate-30percent-off",
-      "sort": "lowest_price"
+      "collection_id": "664e1cd9f4e6d85ab28f8eed:categories:Listras premium:/listras-premium",
+      "sort": "news"
     },
     {
       "type": "dynamic-showcase",
