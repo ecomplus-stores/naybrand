@@ -79,10 +79,10 @@
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "listras-premium",
+      "link": "sertao-",
       "limit": 12,
-      "collection_id": "664e1cd9f4e6d85ab28f8eed:categories:Listras premium:/listras-premium",
-      "sort": "news"
+      "collection_id": "6657e3e6f4e6d85ab2995c53:categories:Sertão 🌵:/sertao-",
+      "sort": "offers"
     },
     {
       "type": "dynamic-showcase",
