@@ -224,12 +224,6 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/panneau-entardecer</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/top-kini-branco</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -303,12 +297,6 @@
   
     <url>
       <loc>https://naybrand.netlify.app/top-malu-linho-cru</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/top-malu-linho-preto</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -428,12 +416,6 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/vestido-beira-mar-sertao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/short-alfaiataria-sertao</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -495,12 +477,6 @@
   
     <url>
       <loc>https://naybrand.netlify.app/semi-croped-janaina-verde-menta</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/vestido-tomara-que-caia-canelado-off-white</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -626,12 +602,6 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/saia-joana-off-white</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/vestido-capri-canelado-azul-onda</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -650,12 +620,6 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/croped-lastex-manga-flare-serena</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/body-sol-serena</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -669,12 +633,6 @@
   
     <url>
       <loc>https://naybrand.netlify.app/top-pipa-carmim</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/vestido-bahamas-longo-amazonia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -860,12 +818,6 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/conjunto-saia-gipsy--top-lastex-lavanda</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/vestido-frente-unica-lavanda</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1040,19 +992,7 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/bata-frente-unica-listras</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/top-pipa-listra</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/vestido-ilha-bela-verde</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1095,12 +1035,6 @@
   
     <url>
       <loc>https://naybrand.netlify.app/vestido-dunas-azul-brisa</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://naybrand.netlify.app/panneau-azul-brisa-c-acessorio</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1484,13 +1418,13 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/pages/pagamentos</loc>
+      <loc>https://naybrand.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/pages/faq</loc>
+      <loc>https://naybrand.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1502,13 +1436,13 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/pages/sobre-nos</loc>
+      <loc>https://naybrand.netlify.app/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/pages/termos</loc>
+      <loc>https://naybrand.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1556,13 +1490,13 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/admin/index</loc>
+      <loc>https://naybrand.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/app/index</loc>
+      <loc>https://naybrand.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
