@@ -10,8 +10,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/resort.jpeg",
-          "link": "resort"
+          "img": "/img/uploads/8c2385f0-0464-4831-9945-648f3c8fc713.jpeg",
+          "link": "sertao-"
         },
         {
           "start": "",
@@ -30,12 +30,6 @@
           "end": "",
           "img": "/img/uploads/bandana.jpg",
           "link": "bandana"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/8c2385f0-0464-4831-9945-648f3c8fc713.jpeg",
-          "link": "sertao-"
         },
         {
           "start": "",
@@ -60,6 +54,17 @@
           "end": "",
           "img": "/img/uploads/canelado-.jpg",
           "link": "canelados-premium"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/resort.jpeg",
+          "link": "resort"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/cosmo.jpeg"
         }
       ]
     },
