@@ -63,14 +63,14 @@
     },
     {
       "page": 1,
-      "title": "    As bandeirinhas já estão no alto, agora falta só o look perfeito💃🏼🌽",
+      "title": "    O verão mais esperado está aqui 🏝️",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "sertao-",
+      "link": "resort",
       "limit": 12,
-      "collection_id": "6657e3e6f4e6d85ab2995c53:categories:Sertão 🌵:/sertao-",
-      "sort": "offers"
+      "collection_id": "6a4dc586568e8331250b181c:collections:Resort:/resort",
+      "sort": "news"
     },
     {
       "type": "dynamic-showcase",
