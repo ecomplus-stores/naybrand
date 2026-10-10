@@ -10,6 +10,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/vera-o-.jpeg"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/resort.jpeg",
           "link": "resort"
         },
@@ -54,11 +59,6 @@
           "end": "",
           "img": "/img/uploads/segredo-tropical.jpg",
           "link": "segredo-tropical"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/vera-o-.jpeg"
         }
       ]
     },
