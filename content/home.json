@@ -68,13 +68,13 @@
     },
     {
       "page": 1,
-      "title": "    O verão mais esperado está aqui 🏝️",
+      "title": "Os mais desejados do site! 🌺",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "resort",
+      "link": "",
       "limit": 12,
-      "collection_id": "6a4dc586568e8331250b181c:collections:Resort:/resort",
+      "collection_id": "624d911b2e405e04ff27204b:categories:vestidos :/vestidos",
       "sort": "news"
     },
     {
