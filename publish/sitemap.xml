@@ -1484,12 +1484,6 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://naybrand.netlify.app/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
@@ -1502,13 +1496,13 @@
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
+      <loc>https://naybrand.netlify.app/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://naybrand.netlify.app/app/index</loc>
+      <loc>https://naybrand.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
@@ -1517,6 +1511,12 @@
       <loc>https://naybrand.netlify.app/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://naybrand.netlify.app/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
